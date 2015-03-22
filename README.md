@@ -1,2 +1,5 @@
-# Pratical_Machine_Learning
-Project submission for Practical Machine Learning Course on Cousera by JHU
+#Practical Machine Learning Project 
+
+###Project Submission
+Use this link to view this project properly
+[pbnewsom.github.io](https://pbnewsom.github.io/)
